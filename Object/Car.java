@@ -15,6 +15,10 @@ public class Car {
     void brake(){
         System.err.println("You stop on the brakes.");
     }
+
+    public String toString(){
+        return make+"\n"+model+"\n"+color+"\n"+year;
+    }
 }
 
     
