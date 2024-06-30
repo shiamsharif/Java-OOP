@@ -2,6 +2,8 @@ package Inheritance;
 
 public class Main {
     public static void main(String[] args) {
+        //subclass (child) - the class that inherits from another class
+        //superclass (parent) - the class being inherited from
         
         Car car = new Car();
 
